@@ -1,0 +1,28 @@
+{
+   "result":[
+      {
+         "sentence":"Today is a good day to die.",
+         "colour":"red"
+      },
+      {
+         "sentence":"Today is a bad day to survive.",
+         "colour":"blue"
+      },
+      {
+         "sentence":"Today is a lucky day.",
+         "colour":"green"
+      },
+      {
+         "sentence":"Today is a horrible day.",
+         "colour":"black"
+      },
+      {
+         "sentence":"Today is a happy day.",
+         "colour":"yellow"
+      },
+      {
+         "sentence":"Today is going to be well.",
+         "colour":"purple"
+      }
+   ]
+}
