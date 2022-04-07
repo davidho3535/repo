@@ -1,11 +1,11 @@
 {
    "result":[
       {
-         "sentence":"Today is a good day to die.",
+         "sentence":"Today is a good day.",
          "colour":"red"
       },
       {
-         "sentence":"Today is a bad day to survive.",
+         "sentence":"Today is a great.",
          "colour":"blue"
       },
       {
