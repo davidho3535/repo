@@ -2,39 +2,39 @@
    "result":[
       {
          "sentence":"Today is a good day.",
-         "colour":"red"
+         "colour":"Red"
       },
       {
          "sentence":"Today is a great day.",
-         "colour":"blue"
+         "colour":"Blue"
       },
       {
          "sentence":"Today is a lucky day.",
-         "colour":"green"
+         "colour":"Green"
       },
       {
          "sentence":"Today is a fantastic day.",
-         "colour":"black"
+         "colour":"Black"
       },
       {
          "sentence":"Today is a happy day.",
-         "colour":"yellow"
+         "colour":"Yellow"
       },
       {
          "sentence":"Today is going to be well.",
-         "colour":"purple"
+         "colour":"Purple"
       },
       {
          "sentence":"You may face some challenge today.",
-         "colour":"white"
+         "colour":"White"
       },
       {
          "sentence":"Today is gonna be amazing as well.",
-         "colour":"orange"
+         "colour":"Orange"
       },
       {
          "sentence":"Today will be more joyful than yesterday.",
-         "colour":"brown"
+         "colour":"Brown"
       }
    ]
 }
