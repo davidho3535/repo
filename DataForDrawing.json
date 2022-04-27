@@ -13,7 +13,7 @@
          "colour":"green"
       },
       {
-         "sentence":"Today is a horrible day.",
+         "sentence":"Today is a fantastic day.",
          "colour":"black"
       },
       {
@@ -23,6 +23,18 @@
       {
          "sentence":"Today is going to be well.",
          "colour":"purple"
+      },
+      {
+         "sentence":"You may face some challenge today.",
+         "colour":"white"
+      },
+      {
+         "sentence":"Today is gonna be amazing as well.",
+         "colour":"orange"
+      },
+      {
+         "sentence":"Today will be more joyful than yesterday.",
+         "colour":"brown"
       }
    ]
 }
