@@ -1,40 +1,56 @@
 {
    "result":[
       {
-         "sentence":"Today is a good day.",
+         "sentence":"“Red is the first colour of spring. It’s the real colour of rebirth. Of beginning.” - Ally Condie",
          "colour":"Red"
       },
       {
-         "sentence":"Today is a great day.",
-         "colour":"Blue"
-      },
-      {
-         "sentence":"Today is a lucky day.",
-         "colour":"Green"
-      },
-      {
-         "sentence":"Today is a fantastic day.",
-         "colour":"Black"
-      },
-      {
-         "sentence":"Today is a happy day.",
-         "colour":"Yellow"
-      },
-      {
-         "sentence":"Today is going to be well.",
-         "colour":"Purple"
-      },
-      {
-         "sentence":"You may face some challenge today.",
-         "colour":"White"
-      },
-      {
-         "sentence":"Today is gonna be amazing as well.",
+         "sentence":"“When life gives you lemons....they could really be oranges.” - Ellen DeGeneres",
          "colour":"Orange"
       },
       {
-         "sentence":"Today will be more joyful than yesterday.",
+         "sentence":"“Aquamarine is an airy blue with a dreamy feel. Cool and calming, ethereal Aquamarine is a shade with a wet and watery feel. Open and expansive, this restful blue also acts as a stress reducer.” - Leatrice Eiseman",
+         "colour":"Aquamarine"
+      },
+      {
+         "sentence":"“Blue colour is everlastingly appointed by the deity to be a source of delight.” - John Ruskin",
+         "colour":"Blue"
+      },
+      {
+         "sentence":"“I can breathe where there is green. Green grows hope. It keeps my heart beating and helps me remember who I am.” - Courtney M. Privett, Faelost",
+         "colour":"Green"
+      },
+      {
+         "sentence":"“Black is modest and arrogant at the same time. Black is lazy and easy - but mysterious. But above all balck says this: ‘I don’t bother you - don’t bother me.” - Yohji Yamamoto",
+         "colour":"Black"
+      },
+      {
+         "sentence":"“Orange is red brought nearer to humanity by yellow.” - Wassily Kandinsky",
+         "colour":"Yellow"
+      },
+      {
+         "sentence":"“All the other colours are just colours, but purple seems to have a soul when you look at it, it’s looking back at you.” - Uniek Swain",
+         "colour":"Purple"
+      },
+      {
+         "sentence":"“White. A blank page or canvas. So many possibilities.”- Stephen Sondheim.",
+         "colour":"White"
+      },
+      {
+         "sentence":"“We love the sight of the brown and ruddy earth; it is the color of life, while a snow-covered plain is the face of death.” - John Burroughs",
          "colour":"Brown"
+      },
+      {
+         "setence":"“There was a time when black and navy blue suits were pretty much everything you saw. That has completely changed. People are wearing big checks, checks with browns and blues and shades of gray, and the scale is very large, and some of them are very bold with heavy contrasts.” - Patrick Grant",
+         "colour":"Navy"
+      },
+      {
+         "sentence":"“A gray day provides the best light.” - Leonardo da Vinci",
+         "colour":"Gray"
+      },
+      {
+         "sentence":"“There's always been a rainbow hanging over your head.” -  Kacey Musgraves",
+         "colour":"Rainbow"
       }
    ]
 }
